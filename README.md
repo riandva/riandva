@@ -1,5 +1,12 @@
-### Hi there, My name is Gede Rian Divayana, I am a Full Stack Developer 👋
+### Hi there, welcome to my profile 👋
 
+My name is Gede Rian Divayana.
+I am experieced with:
+
+-   Flutter
+-   MERN Stack (MongoDB ExpressJs React NodeJs)
+-   Kotlin (Native Android)
+-   Swift (Native iOS)
 
 ---
 
