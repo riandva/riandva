@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Gede Rian Divayana, I am a Full Stack Developer 👋
 
 <!--
 **Mathvediz/Mathvediz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mathvediz)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mathvediz)](https://github.com/ryo-ma/github-profile-trophy)
