@@ -2,6 +2,7 @@
 
 <p>
 My name is Gede Rian Divayana.<br>
+I am a Full Stack developer.<br>
 I am experieced with:
 
 -   Flutter
