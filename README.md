@@ -12,7 +12,7 @@ I am experieced with:
 <p>
   
 ## Certificates
-[<img width="49%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-77346b53-153d-4cb6-92b3-61b63bd40a33.jpg?v=1623894675000">](https://www.udemy.com/certificate/UC-77346b53-153d-4cb6-92b3-61b63bd40a33/)[][<img width="49%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37.jpg?v=1669436560000">](https://www.udemy.com/certificate/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37/)
+[<img width="49%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-77346b53-153d-4cb6-92b3-61b63bd40a33.jpg?v=1623894675000">](https://www.udemy.com/certificate/UC-77346b53-153d-4cb6-92b3-61b63bd40a33/) [<img width="49%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37.jpg?v=1669436560000">](https://www.udemy.com/certificate/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37/)
 [<img width="50%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-7a45ac40-83cb-4297-9f27-87b253b28922.jpg?v=1666670047000">](https://www.udemy.com/certificate/UC-7a45ac40-83cb-4297-9f27-87b253b28922/)
 
 
