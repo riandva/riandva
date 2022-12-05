@@ -1,7 +1,7 @@
 ## Hi there, welcome to my profile 👋
 
 <p>
-My name is Gede Rian Divayana.
+My name is Gede Rian Divayana.<br>
 I am experieced with:
 
 -   Flutter
