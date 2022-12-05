@@ -10,6 +10,10 @@ I am experieced with:
 -   Kotlin (Native Android)
 -   Swift (Native iOS)
 <p>
+  
+## Certificates
+[<img align="left" width="50%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37.jpg?v=1669436560000">](https://www.udemy.com/certificate/UC-02e9d3e8-371f-4cc1-896d-c528b1984e37/)
+
 
 ## Languages
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvediz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
